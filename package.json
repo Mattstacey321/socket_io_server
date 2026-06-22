@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.22.2",
     "mongodb": "^3.4.1",
     "mongoose": "^9.4.1",
     "socket.io": "^4.8.3",
